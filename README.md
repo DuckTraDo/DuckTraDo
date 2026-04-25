@@ -74,16 +74,3 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
-
----
-
-### 📌 Current Focus
-- 🎓 CS 7641 Machine Learning @ Georgia Tech
-- 🏗️ Local LLM serving · RAG pipelines · Multi-agent systems
-- 🔬 Fine-tuning with LoRA/GRPO · NLP research for 2027 job market
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuckTraDo&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
