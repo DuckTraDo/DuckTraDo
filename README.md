@@ -6,7 +6,6 @@
 
 <p align="center">
   Building local LLM infrastructure, RAG pipelines, and generative AI systems.<br/>
-  Currently pursuing ML @ Georgia Tech · Targeting MLE / AI Engineer roles in 2027.
 </p>
 
 ---
